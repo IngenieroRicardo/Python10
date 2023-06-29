@@ -1,4 +1,4 @@
-from flask import json
+from flask import json, jsonify
 from flask import Flask
 from flask_basicauth import BasicAuth
 from datetime import timedelta
